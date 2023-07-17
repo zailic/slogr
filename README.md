@@ -1,5 +1,5 @@
 # Slogr
-Slogr provides an implementation of [logr](github.com/go-logr/logr) interfaces backed by [slog]("golang.org/x/exp/slog).
+Slogr provides an implementation of [logr](https://github.com/go-logr/logr) interfaces backed by [slog](https://golang.org/x/exp/slog).
 
 ## Usage example
 ```go
