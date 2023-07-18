@@ -6,7 +6,7 @@
 //   	slogLogger := slog.New(slog.NewJSONHandler(os.Stdout, nil))
 //  	logger := slogr.New(slodLogger)
 
-package main
+package slogr
 
 import (
 	"context"
